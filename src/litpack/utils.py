@@ -1,3 +1,4 @@
+import requests
 def get_abstract(id):
     """Returns the inverted_abstract_index"""
     url = f"https://api.openalex.org/works/{id}"
