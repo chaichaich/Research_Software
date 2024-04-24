@@ -1,2 +1,2 @@
-i10 package
+Literature Search Package
 ===========

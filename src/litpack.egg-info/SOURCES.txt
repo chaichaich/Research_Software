@@ -1,6 +1,9 @@
 LICENSE
 README.md
 setup.py
+litpack/__init__.py
+litpack/main.py
+litpack/utils.py
 litpack.egg-info/PKG-INFO
 litpack.egg-info/SOURCES.txt
 litpack.egg-info/dependency_links.txt
