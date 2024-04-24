@@ -1,0 +1,2 @@
+[console_scripts]
+oa = litpack.main:main

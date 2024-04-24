@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: litpack
+Version: 0.0.1
+Summary: literature pack
+Maintainer: Samuel Chai
+Maintainer-email: sechai@andrew.cmu.edu
+License: MIT
+License-File: LICENSE
+
+litpack
+==============
+Handy functions for a project.

@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+litpack.egg-info/PKG-INFO
+litpack.egg-info/SOURCES.txt
+litpack.egg-info/dependency_links.txt
+litpack.egg-info/entry_points.txt
+litpack.egg-info/top_level.txt

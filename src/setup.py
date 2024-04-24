@@ -1,13 +1,13 @@
-
-setup(name='i10pack',
+from setuptools import setup
+setup(name='litpack',
       version='0.0.1',
-      description='i10 index',
+      description='literature pack',
       maintainer='Samuel Chai',
       maintainer_email='sechai@andrew.cmu.edu',
       license='MIT',
-      packages=['i10pack'],
-      entry_points={'console_scripts': ['oa = i10pack.main:main']},
+      packages=['litpack'],
+      entry_points={'console_scripts': ['oa = litpack.main:main']},
       long_description='''\
-i10 index
+litpack
 ==============
 Handy functions for a project.''')
